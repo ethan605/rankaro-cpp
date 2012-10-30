@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1301631946 source:e:\atlas's data\documents\computer science\projects\rankaro\codeblocks\rankaro\mainwnd.cpp
+	"mainwnd.h"
+
+1301587544 e:\atlas's data\documents\computer science\projects\rankaro\codeblocks\rankaro\mainwnd.h
+	<windows.h>
+	<windowsx.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+	"RanKaro.h"
+	"resource.h"
+
+1302107715 e:\atlas's data\documents\computer science\projects\rankaro\codeblocks\rankaro\rankaro.h
+	<iostream>
+	<fstream>
+	<stdint.h>
+	<windows.h>
+	<stdio.h>
+	<stack>
+
+1302111613 e:\atlas's data\documents\computer science\projects\rankaro\codeblocks\rankaro\resource.h
+	<string.h>
+
+1301992688 source:e:\atlas's data\documents\computer science\projects\rankaro\codeblocks\rankaro\resource.rc
+	"resource.h"
+	<windows.h>
+
+1302110345 source:e:\atlas's data\documents\computer science\projects\rankaro\codeblocks\rankaro\rankaro.cpp
+	"RanKaro.h"
+	"mainwnd.h"
+
+1302105064 source:e:\atlas's data\documents\computer science\projects\rankaro\codeblocks\rankaro\main.cpp
+	<windows.h>
+	<commctrl.h>
+	"mainwnd.h"
+
